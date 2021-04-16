@@ -9,8 +9,8 @@
 
 
 
-#### I'm a self-taught programmer, and i've been doing this for almost a year now. I am very familiar with Python.
-##### I have experience working with the basics of Javascript, HTML, CSS, React and Redux
+#### I'm a self-taught programmer, and i've been doing this for about a year. I am proficient in Python.
+##### I have worked with various frameworks in Python and Javascript, as well as HTML, CSS, React, React-native and Redux
 
 - 🔭 I’m currently working on machine learning models and deep learning
 - 🌱 I’m currently learning about Neural networks and working with keras and tensorflow
