@@ -13,9 +13,9 @@
 ##### I have worked with various frameworks in Python and Javascript, as well as HTML, CSS, React, React-native and Redux
 
 - 🔭 I’m currently working on machine learning models and deep learning
-- 🌱 I’m currently learning about Neural networks and working with keras and tensorflow
-- 👯 I’m looking to collaborate on computer vision projects for identification
-- 🤔 I’m looking for help with firebase, google cloud, google OCR and healthcare API
+- 🌱 I’m currently learning about React, redux and react-native
+- 👯 I’m looking to collaborate on native mobile applications
+- 🤔 I’m looking for help with AWS, GCP, google OCR and healthcare API
 - 💬 Ask me about anything
 - 📫 How to reach me: twitter @debs_febs, instagram: oh_debi, linkedin: Deborah Adewunmi
 - 😄 Pronouns: She/Her
