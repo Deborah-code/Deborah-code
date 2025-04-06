@@ -9,7 +9,7 @@
 
 
 
-### I'm a London-based Software Engineer with a passion for engineering and making a difference through technology. With experience working with cross-functional product teams and a background in non-coding STEM, I'm always looking for ways to leverage software engineering to solve complex problems and support vibrant tech communities.
+### I'm a Software Engineer with a passion for engineering and making a difference through technology. With experience working with cross-functional product teams and a background in non-coding STEM, I'm always looking for ways to leverage software engineering to solve complex problems and support vibrant tech communities.
 
 #### About Me
 
